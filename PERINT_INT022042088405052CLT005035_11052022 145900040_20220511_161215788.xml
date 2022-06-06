@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objets>
+  <actif>true</actif>
+  <code>INT022042088405052CLT005035</code>
+  <refExterne/>
+  <civiliteCode>MME</civiliteCode>
+  <civiliteLibelle>Mme</civiliteLibelle>
+  <nom>COUILLARD</nom>
+  <prenom>Claudine</prenom>
+  <adresse1>COUILLARD Claudine</adresse1>
+  <adresse2/>
+  <adresse3/>
+  <codePostal/>
+  <ville/>
+  <codePays/>
+  <libellePays/>
+  <telephoneDomicile>0235233219</telephoneDomicile>
+  <telephoneBureau>0235192622</telephoneBureau>
+  <telephonePortable/>
+  <email>claudine.couillard@urbania.org</email>
+  <fonctionCode>FCT0028</fonctionCode>
+  <fonctionLibelle>PERSONNEL ADMINISTRATIF</fonctionLibelle>
+  <dateCreation>2011-01-27T22:21:44.999</dateCreation>
+  <dateModif>2022-05-03T00:30:13.999</dateModif>
+  <codeUserCreation>SYSUSER</codeUserCreation>
+  <codeUserModif>SYSUSER</codeUserModif>
+</objets>
